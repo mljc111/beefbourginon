@@ -1,0 +1,24 @@
+body{
+    background-color:antiquewhite
+}
+header{
+    height: 125px;
+}
+h1{
+    text-align: center;
+    margin-left: -300px;
+}
+h2{
+    text-align: center;
+}
+
+img#left{
+    float: left;
+    width: 25%;
+    position: absolute;
+}
+img#right{
+    float: right;
+    width: 25%;
+    position: absolute;
+}
